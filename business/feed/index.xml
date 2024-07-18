@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<atom:link href="/business/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Jul 2024 10:13:08 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Trouver sa voie professionnelle</title>
+		<link>/business/trouver-sa-voie-professionnelle/</link>
+					<comments>/business/trouver-sa-voie-professionnelle/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 10:13:08 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">/categorie/trouver-sa-voie-professionnelle/</guid>
+
+					<description><![CDATA[Orientation scolaire Lorsqu&#8217;il s&#8217;agit de trouver sa voie professionnelle, il est essentiel de bien se préparer dès l&#8217;orientation scolaire. Les choix faits pendant cette période peuvent influencer de manière significative la carrière future. Il est donc crucial de prendre en compte différentes options et de faire des choix éclairés. Pour beaucoup, la première étape consiste [&#8230;]]]></description>
+		
+					<wfw:commentRss>/business/trouver-sa-voie-professionnelle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combien gagne un social media manager ?</title>
+		<link>/business/combien-gagne-un-social-media-manager/</link>
+					<comments>/business/combien-gagne-un-social-media-manager/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 10:12:02 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">/categorie/combien-gagne-un-social-media-manager/</guid>
+
+					<description><![CDATA[Rôles et responsabilités d&#8217;un social media manager Le social media manager joue un rôle crucial dans la stratégie de communication digitale des entreprises. Sa principale mission est de gérer la présence et l’image de la marque sur les réseaux sociaux, de façon à attirer et fidéliser les clients. Un social media manager orchestrera des campagnes [&#8230;]]]></description>
+		
+					<wfw:commentRss>/business/combien-gagne-un-social-media-manager/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Actualité &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<atom:link href="/actualite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Jul 2024 10:26:12 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Découvrez le salaire des verbicrucistes</title>
+		<link>/actualite/decouvrez-le-salaire-des-verbicrucistes/</link>
+					<comments>/actualite/decouvrez-le-salaire-des-verbicrucistes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 10:26:12 +0000</pubDate>
+				<category><![CDATA[Actualité]]></category>
+		<guid isPermaLink="false">/categorie/decouvrez-le-salaire-des-verbicrucistes/</guid>
+
+					<description><![CDATA[Rémunération des novices Les verbicrucistes, ces artisans des mots croisés, se distinguent par leur habileté à jouer avec les lettres et les mots. Ces experts de la langue française gagnent leur vie en concevant des grilles de mots croisés pour divers supports tels que les journaux, magazines et sites internet. La rémunération des verbicrucistes débutants [&#8230;]]]></description>
+		
+					<wfw:commentRss>/actualite/decouvrez-le-salaire-des-verbicrucistes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

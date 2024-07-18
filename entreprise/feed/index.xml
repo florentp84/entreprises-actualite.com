@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Entreprise &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<atom:link href="/entreprise/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Jul 2024 10:26:53 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Le portage salarial, un atout pour les start-up</title>
+		<link>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/</link>
+					<comments>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 10:26:53 +0000</pubDate>
+				<category><![CDATA[Entreprise]]></category>
+		<guid isPermaLink="false">/categorie/le-portage-salarial-un-atout-pour-les-start-up/</guid>
+
+					<description><![CDATA[Fonctionnement du portage salarial Le portage salarial représente une solution innovante pour les start-up qui cherchent à optimiser leur gestion des ressources humaines tout en minimisant les risques. Ce dispositif permet aux entrepreneurs d’embaucher des experts sans devoir gérer les aspects administratifs et juridiques d’un contrat de travail traditionnel. Le fonctionnement du portage salarial repose [&#8230;]]]></description>
+		
+					<wfw:commentRss>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Estampeur : l&#8217;art de marquer durablement.</title>
+		<link>/entreprise/estampeur-lart-de-marquer-durablement/</link>
+					<comments>/entreprise/estampeur-lart-de-marquer-durablement/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 10:14:52 +0000</pubDate>
+				<category><![CDATA[Entreprise]]></category>
+		<guid isPermaLink="false">/categorie/estampeur-lart-de-marquer-durablement/</guid>
+
+					<description><![CDATA[Techniques d&#8217;estampage L&#8217;estampage est une technique artistique qui consiste à appliquer de l&#8217;encre ou d&#8217;autres matières sur une matrice pour reproduire une image sur une surface. Utilisée depuis l&#8217;Antiquité, c&#8217;est une pratique qui permet de créer des œuvres d&#8217;une grande diversité, de la gravure traditionnelle à la sérigraphie contemporaine. Les principales techniques d&#8217;estampage incluent : [&#8230;]]]></description>
+		
+					<wfw:commentRss>/entreprise/estampeur-lart-de-marquer-durablement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
