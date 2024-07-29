@@ -12,7 +12,7 @@
 	<atom:link href="/auteur/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 22 Jul 2024 22:00:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jul 2024 06:34:45 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	
 	<item>
+		<title>Devenir entrepreneur : mes motivations</title>
+		<link>/entreprise/devenir-entrepreneur-mes-motivations/</link>
+					<comments>/entreprise/devenir-entrepreneur-mes-motivations/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 06:34:45 +0000</pubDate>
+				<category><![CDATA[Entreprise]]></category>
+		<guid isPermaLink="false">/categorie/devenir-entrepreneur-mes-motivations/</guid>
+
+					<description><![CDATA[Mon parcours entrepreneurial Se lancer dans l&#8217;entrepreneuriat est un projet qui a toujours été en moi. Après plusieurs années en tant que salarié, j&#8217;ai ressenti le besoin de créer quelque chose par moi-même. Les raisons qui m’ont poussé à franchir ce cap sont multiples. Tout d&#8217;abord, j&#8217;ai voulu gagner en indépendance. Avoir la possibilité de [&#8230;]]]></description>
+		
+					<wfw:commentRss>/entreprise/devenir-entrepreneur-mes-motivations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Les motivations de l&#8217;entreprenariat</title>
 		<link>/categorie/les-motivations-de-lentreprenariat/</link>
 					<comments>/categorie/les-motivations-de-lentreprenariat/#respond</comments>
