@@ -8,21 +8,46 @@
 	>
 
 <channel>
-	<title>admin &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<title>admin &#8211; Entreprises actualité</title>
 	<atom:link href="/auteur/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Jul 2024 06:34:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Aug 2024 06:34:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Business_News-fav-icon-150x150.png</url>
+	<title>admin &#8211; Entreprises actualité</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>Entreprendre malin avec un petit budget</title>
+		<link>/entreprendre-malin-avec-un-petit-budget/</link>
+					<comments>/entreprendre-malin-avec-un-petit-budget/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 06:34:47 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">/categorie/entreprendre-malin-avec-un-petit-budget/</guid>
+
+					<description><![CDATA[Définir son projet Définir son projet est la première étape incontournable pour entreprendre de manière efficace avec un petit budget. Identifiez une niche de marché où vous pouvez apporter de la valeur ajoutée. Une analyse de marché approfondie vous permettra de comprendre les besoins de votre cible et les opportunités à exploiter. Rédigez un business [&#8230;]]]></description>
+		
+					<wfw:commentRss>/entreprendre-malin-avec-un-petit-budget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Devenir entrepreneur : mes motivations</title>
-		<link>/entreprise/devenir-entrepreneur-mes-motivations/</link>
-					<comments>/entreprise/devenir-entrepreneur-mes-motivations/#respond</comments>
+		<link>/devenir-entrepreneur-mes-motivations/</link>
+					<comments>/devenir-entrepreneur-mes-motivations/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Jul 2024 06:34:45 +0000</pubDate>
@@ -31,32 +56,32 @@
 
 					<description><![CDATA[Mon parcours entrepreneurial Se lancer dans l&#8217;entrepreneuriat est un projet qui a toujours été en moi. Après plusieurs années en tant que salarié, j&#8217;ai ressenti le besoin de créer quelque chose par moi-même. Les raisons qui m’ont poussé à franchir ce cap sont multiples. Tout d&#8217;abord, j&#8217;ai voulu gagner en indépendance. Avoir la possibilité de [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/devenir-entrepreneur-mes-motivations/feed/</wfw:commentRss>
+					<wfw:commentRss>/devenir-entrepreneur-mes-motivations/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Les motivations de l&#8217;entreprenariat</title>
-		<link>/categorie/les-motivations-de-lentreprenariat/</link>
-					<comments>/categorie/les-motivations-de-lentreprenariat/#respond</comments>
+		<link>/les-motivations-de-lentreprenariat/</link>
+					<comments>/les-motivations-de-lentreprenariat/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Jul 2024 22:00:44 +0000</pubDate>
-				<category><![CDATA[Catégorie]]></category>
+				<category><![CDATA[Entreprendre]]></category>
 		<guid isPermaLink="false">/categorie/les-motivations-de-lentreprenariat/</guid>
 
 					<description><![CDATA[Les ambitions personnelles Beaucoup d&#8217;entrepreneurs se lancent dans l&#8217;aventure entrepreneuriale pour réaliser leurs ambitions personnelles. Le désir de voir leur projet aboutir, de créer quelque chose de nouveau et d&#8217;impactant les motive à franchir le pas. Plusieurs éléments peuvent définir ces ambitions : Afin de concrétiser ces objectifs, il est crucial pour eux de s&#8217;entourer [&#8230;]]]></description>
 		
-					<wfw:commentRss>/categorie/les-motivations-de-lentreprenariat/feed/</wfw:commentRss>
+					<wfw:commentRss>/les-motivations-de-lentreprenariat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Les meilleures écoles de communication en France</title>
-		<link>/services/les-meilleures-ecoles-de-communication-en-france/</link>
-					<comments>/services/les-meilleures-ecoles-de-communication-en-france/#respond</comments>
+		<link>/les-meilleures-ecoles-de-communication-en-france/</link>
+					<comments>/les-meilleures-ecoles-de-communication-en-france/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:33:29 +0000</pubDate>
@@ -65,32 +90,32 @@
 
 					<description><![CDATA[Classement des écoles de communication Le choix d&#8217;une école de communication est crucial pour ceux qui souhaitent se spécialiser dans ce domaine. La France dispose de plusieurs établissements réputés qui offrent des formations de qualité, variées et adaptées aux besoins du marché. Celsa (Paris-Sorbonne) est souvent considérée comme l&#8217;une des meilleures écoles de communication en [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/les-meilleures-ecoles-de-communication-en-france/feed/</wfw:commentRss>
+					<wfw:commentRss>/les-meilleures-ecoles-de-communication-en-france/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Découvrez le métier d&#8217;anthropologue : une profession passionnante</title>
-		<link>/categorie/decouvrez-le-metier-danthropologue-une-profession-passionnante/</link>
-					<comments>/categorie/decouvrez-le-metier-danthropologue-une-profession-passionnante/#respond</comments>
+		<link>/decouvrez-le-metier-danthropologue-une-profession-passionnante/</link>
+					<comments>/decouvrez-le-metier-danthropologue-une-profession-passionnante/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:32:43 +0000</pubDate>
-				<category><![CDATA[Catégorie]]></category>
+				<category><![CDATA[Entreprendre]]></category>
 		<guid isPermaLink="false">/categorie/decouvrez-le-metier-danthropologue-une-profession-passionnante/</guid>
 
 					<description><![CDATA[Formation requise Le métier d&#8217;anthropologue est fascinant et multidisciplinaire, impliquant l&#8217;étude des êtres humains, de leurs cultures et de leurs comportements à travers le temps et l&#8217;espace. Les anthropologues cherchent à comprendre la diversité humaine, les relations sociales, les institutions et les pratiques culturelles. La formation pour devenir anthropologue passe par l&#8217;obtention d&#8217;un diplôme en [&#8230;]]]></description>
 		
-					<wfw:commentRss>/categorie/decouvrez-le-metier-danthropologue-une-profession-passionnante/feed/</wfw:commentRss>
+					<wfw:commentRss>/decouvrez-le-metier-danthropologue-une-profession-passionnante/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tout savoir sur les cartes PCS</title>
-		<link>/services/tout-savoir-sur-les-cartes-pcs/</link>
-					<comments>/services/tout-savoir-sur-les-cartes-pcs/#respond</comments>
+		<link>/tout-savoir-sur-les-cartes-pcs/</link>
+					<comments>/tout-savoir-sur-les-cartes-pcs/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:28:55 +0000</pubDate>
@@ -99,15 +124,15 @@
 
 					<description><![CDATA[Fonctionnement des cartes PCS Les cartes PCS, ou cartes prépayées, sont des outils pratiques pour gérer et effectuer des paiements sans avoir besoin d&#8217;un compte bancaire traditionnel. Elles sont largement utilisées pour leur flexibilité et leur simplicité, permettant à leurs utilisateurs de mieux contrôler leurs dépenses. Le fonctionnement des cartes PCS est assez simple. Pour [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/tout-savoir-sur-les-cartes-pcs/feed/</wfw:commentRss>
+					<wfw:commentRss>/tout-savoir-sur-les-cartes-pcs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>L&#8217;envoi postal : une solution de communication efficace</title>
-		<link>/services/lenvoi-postal-une-solution-de-communication-efficace/</link>
-					<comments>/services/lenvoi-postal-une-solution-de-communication-efficace/#respond</comments>
+		<link>/lenvoi-postal-une-solution-de-communication-efficace/</link>
+					<comments>/lenvoi-postal-une-solution-de-communication-efficace/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:28:06 +0000</pubDate>
@@ -116,15 +141,15 @@
 
 					<description><![CDATA[Tarifs d&#8217;envoi postal Les tarifs d&#8217;envoi postal sont un facteur clé à considérer lors de l&#8217;utilisation de ce mode de communication. Il est essentiel de bien comprendre les différentes options tarifaires disponibles pour optimiser vos coûts. Les principaux tarifs incluent : En choisissant le tarif adapté à vos besoins, vous pouvez maîtriser votre budget tout [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/lenvoi-postal-une-solution-de-communication-efficace/feed/</wfw:commentRss>
+					<wfw:commentRss>/lenvoi-postal-une-solution-de-communication-efficace/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le portage salarial, un atout pour les start-up</title>
-		<link>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/</link>
-					<comments>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/#respond</comments>
+		<link>/le-portage-salarial-un-atout-pour-les-start-up/</link>
+					<comments>/le-portage-salarial-un-atout-pour-les-start-up/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:26:53 +0000</pubDate>
@@ -133,15 +158,15 @@
 
 					<description><![CDATA[Fonctionnement du portage salarial Le portage salarial représente une solution innovante pour les start-up qui cherchent à optimiser leur gestion des ressources humaines tout en minimisant les risques. Ce dispositif permet aux entrepreneurs d’embaucher des experts sans devoir gérer les aspects administratifs et juridiques d’un contrat de travail traditionnel. Le fonctionnement du portage salarial repose [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/feed/</wfw:commentRss>
+					<wfw:commentRss>/le-portage-salarial-un-atout-pour-les-start-up/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Découvrez le salaire des verbicrucistes</title>
-		<link>/actualite/decouvrez-le-salaire-des-verbicrucistes/</link>
-					<comments>/actualite/decouvrez-le-salaire-des-verbicrucistes/#respond</comments>
+		<link>/decouvrez-le-salaire-des-verbicrucistes/</link>
+					<comments>/decouvrez-le-salaire-des-verbicrucistes/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:26:12 +0000</pubDate>
@@ -150,15 +175,15 @@
 
 					<description><![CDATA[Rémunération des novices Les verbicrucistes, ces artisans des mots croisés, se distinguent par leur habileté à jouer avec les lettres et les mots. Ces experts de la langue française gagnent leur vie en concevant des grilles de mots croisés pour divers supports tels que les journaux, magazines et sites internet. La rémunération des verbicrucistes débutants [&#8230;]]]></description>
 		
-					<wfw:commentRss>/actualite/decouvrez-le-salaire-des-verbicrucistes/feed/</wfw:commentRss>
+					<wfw:commentRss>/decouvrez-le-salaire-des-verbicrucistes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le métier de nettoyeur d&#8217;écran de cinéma</title>
-		<link>/services/le-metier-de-nettoyeur-decran-de-cinema/</link>
-					<comments>/services/le-metier-de-nettoyeur-decran-de-cinema/#respond</comments>
+		<link>/le-metier-de-nettoyeur-decran-de-cinema/</link>
+					<comments>/le-metier-de-nettoyeur-decran-de-cinema/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:25:43 +0000</pubDate>
@@ -167,15 +192,15 @@
 
 					<description><![CDATA[Formation pour devenir nettoyeur d&#8217;écran de cinéma Le nettoyeur d&#8217;écran de cinéma joue un rôle crucial pour garantir une expérience cinématographique optimale. En assurant la propreté des écrans, il permet aux spectateurs de profiter d&#8217;une image nette et sans distractions. Ce métier requiert un sens du détail aiguisé et une méthode rigoureuse. Les formations pour [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/le-metier-de-nettoyeur-decran-de-cinema/feed/</wfw:commentRss>
+					<wfw:commentRss>/le-metier-de-nettoyeur-decran-de-cinema/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comment supprimer un bénéficiaire à La Banque Postale</title>
-		<link>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/</link>
-					<comments>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/#respond</comments>
+		<link>/comment-supprimer-un-beneficiaire-a-la-banque-postale/</link>
+					<comments>/comment-supprimer-un-beneficiaire-a-la-banque-postale/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:24:38 +0000</pubDate>
@@ -184,32 +209,32 @@
 
 					<description><![CDATA[Procédure pour supprimer un bénéficiaire à La Banque Postale Pour supprimer un bénéficiaire à La Banque Postale, il est nécessaire de suivre une procédure bien déterminée. Voici les étapes à suivre pour mener à bien cette opération. Connectez-vous à votre espace personnel sur le site de La Banque Postale. Utilisez votre identifiant et votre mot [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/feed/</wfw:commentRss>
+					<wfw:commentRss>/comment-supprimer-un-beneficiaire-a-la-banque-postale/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le métier de corroyeur : l&#8217;art de transformer le cuir</title>
-		<link>/categorie/le-metier-de-corroyeur-lart-de-transformer-le-cuir/</link>
-					<comments>/categorie/le-metier-de-corroyeur-lart-de-transformer-le-cuir/#respond</comments>
+		<link>/le-metier-de-corroyeur-lart-de-transformer-le-cuir/</link>
+					<comments>/le-metier-de-corroyeur-lart-de-transformer-le-cuir/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:24:01 +0000</pubDate>
-				<category><![CDATA[Catégorie]]></category>
+				<category><![CDATA[Entreprendre]]></category>
 		<guid isPermaLink="false">/categorie/le-metier-de-corroyeur-lart-de-transformer-le-cuir/</guid>
 
 					<description><![CDATA[Historique du métier de corroyeur Le métier de corroyeur est un artisanat ancien qui consiste à transformer le cuir brut en produit fini. Spécialistes du traitement et du tannage des peaux, les corroyeurs jouent un rôle crucial dans l&#8217;industrie du cuir en préparant les peaux pour être utilisées dans divers secteurs tels que la mode, [&#8230;]]]></description>
 		
-					<wfw:commentRss>/categorie/le-metier-de-corroyeur-lart-de-transformer-le-cuir/feed/</wfw:commentRss>
+					<wfw:commentRss>/le-metier-de-corroyeur-lart-de-transformer-le-cuir/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comment annuler un rendez-vous Pôle Emploi</title>
-		<link>/services/comment-annuler-un-rendez-vous-pole-emploi/</link>
-					<comments>/services/comment-annuler-un-rendez-vous-pole-emploi/#respond</comments>
+		<link>/comment-annuler-un-rendez-vous-pole-emploi/</link>
+					<comments>/comment-annuler-un-rendez-vous-pole-emploi/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:18:57 +0000</pubDate>
@@ -218,15 +243,15 @@
 
 					<description><![CDATA[Préparation de l&#8217;annulation Si vous devez annuler un rendez-vous Pôle Emploi, il est essentiel de suivre certaines étapes pour éviter des complications. Voici les instructions à respecter : 1. Accédez à votre espace personnel : Connectez-vous à votre espace personnel Pôle Emploi. Vous aurez besoin de votre identifiant et de votre mot de passe. 2. [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/comment-annuler-un-rendez-vous-pole-emploi/feed/</wfw:commentRss>
+					<wfw:commentRss>/comment-annuler-un-rendez-vous-pole-emploi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Estampeur : l&#8217;art de marquer durablement.</title>
-		<link>/entreprise/estampeur-lart-de-marquer-durablement/</link>
-					<comments>/entreprise/estampeur-lart-de-marquer-durablement/#respond</comments>
+		<link>/estampeur-lart-de-marquer-durablement/</link>
+					<comments>/estampeur-lart-de-marquer-durablement/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:14:52 +0000</pubDate>
@@ -235,15 +260,15 @@
 
 					<description><![CDATA[Techniques d&#8217;estampage L&#8217;estampage est une technique artistique qui consiste à appliquer de l&#8217;encre ou d&#8217;autres matières sur une matrice pour reproduire une image sur une surface. Utilisée depuis l&#8217;Antiquité, c&#8217;est une pratique qui permet de créer des œuvres d&#8217;une grande diversité, de la gravure traditionnelle à la sérigraphie contemporaine. Les principales techniques d&#8217;estampage incluent : [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/estampeur-lart-de-marquer-durablement/feed/</wfw:commentRss>
+					<wfw:commentRss>/estampeur-lart-de-marquer-durablement/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Choisir un métier : conseils et démarches</title>
-		<link>/services/choisir-un-metier-conseils-et-demarches/</link>
-					<comments>/services/choisir-un-metier-conseils-et-demarches/#respond</comments>
+		<link>/choisir-un-metier-conseils-et-demarches/</link>
+					<comments>/choisir-un-metier-conseils-et-demarches/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:13:51 +0000</pubDate>
@@ -252,15 +277,15 @@
 
 					<description><![CDATA[Conseils pour choisir un métier Il est important de se connaître avant de choisir un métier. Identifiez vos compétences, vos intérêts et vos valeurs. Faites une liste de ce que vous aimez faire et de ce que vous faites bien. Cela vous aidera à déterminer les domaines professionnels où vous pourriez être à l&#8217;aise. Renseignez-vous [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/choisir-un-metier-conseils-et-demarches/feed/</wfw:commentRss>
+					<wfw:commentRss>/choisir-un-metier-conseils-et-demarches/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Trouver sa voie professionnelle</title>
-		<link>/business/trouver-sa-voie-professionnelle/</link>
-					<comments>/business/trouver-sa-voie-professionnelle/#respond</comments>
+		<link>/trouver-sa-voie-professionnelle/</link>
+					<comments>/trouver-sa-voie-professionnelle/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:13:08 +0000</pubDate>
@@ -269,15 +294,15 @@
 
 					<description><![CDATA[Orientation scolaire Lorsqu&#8217;il s&#8217;agit de trouver sa voie professionnelle, il est essentiel de bien se préparer dès l&#8217;orientation scolaire. Les choix faits pendant cette période peuvent influencer de manière significative la carrière future. Il est donc crucial de prendre en compte différentes options et de faire des choix éclairés. Pour beaucoup, la première étape consiste [&#8230;]]]></description>
 		
-					<wfw:commentRss>/business/trouver-sa-voie-professionnelle/feed/</wfw:commentRss>
+					<wfw:commentRss>/trouver-sa-voie-professionnelle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Combien gagne un social media manager ?</title>
-		<link>/business/combien-gagne-un-social-media-manager/</link>
-					<comments>/business/combien-gagne-un-social-media-manager/#respond</comments>
+		<link>/combien-gagne-un-social-media-manager/</link>
+					<comments>/combien-gagne-un-social-media-manager/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:12:02 +0000</pubDate>
@@ -286,7 +311,7 @@
 
 					<description><![CDATA[Rôles et responsabilités d&#8217;un social media manager Le social media manager joue un rôle crucial dans la stratégie de communication digitale des entreprises. Sa principale mission est de gérer la présence et l’image de la marque sur les réseaux sociaux, de façon à attirer et fidéliser les clients. Un social media manager orchestrera des campagnes [&#8230;]]]></description>
 		
-					<wfw:commentRss>/business/combien-gagne-un-social-media-manager/feed/</wfw:commentRss>
+					<wfw:commentRss>/combien-gagne-un-social-media-manager/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

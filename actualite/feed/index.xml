@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Actualité &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<title>Actualité &#8211; Entreprises actualité</title>
 	<atom:link href="/actualite/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -18,11 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Business_News-fav-icon-150x150.png</url>
+	<title>Actualité &#8211; Entreprises actualité</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Découvrez le salaire des verbicrucistes</title>
-		<link>/actualite/decouvrez-le-salaire-des-verbicrucistes/</link>
-					<comments>/actualite/decouvrez-le-salaire-des-verbicrucistes/#respond</comments>
+		<link>/decouvrez-le-salaire-des-verbicrucistes/</link>
+					<comments>/decouvrez-le-salaire-des-verbicrucistes/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:26:12 +0000</pubDate>
@@ -31,7 +39,7 @@
 
 					<description><![CDATA[Rémunération des novices Les verbicrucistes, ces artisans des mots croisés, se distinguent par leur habileté à jouer avec les lettres et les mots. Ces experts de la langue française gagnent leur vie en concevant des grilles de mots croisés pour divers supports tels que les journaux, magazines et sites internet. La rémunération des verbicrucistes débutants [&#8230;]]]></description>
 		
-					<wfw:commentRss>/actualite/decouvrez-le-salaire-des-verbicrucistes/feed/</wfw:commentRss>
+					<wfw:commentRss>/decouvrez-le-salaire-des-verbicrucistes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Emplacements - Plan de site - WordPress OCOPO™ &#8211; 1.5</title>
+						<title>Emplacements - Plan de site - Entreprises actualité</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>Sitemap XML - WordPress OCOPO™ &#8211; 1.5</title>
+						<title>Sitemap XML - Entreprises actualité</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

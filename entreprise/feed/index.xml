@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Entreprise &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<title>Entreprise &#8211; Entreprises actualité</title>
 	<atom:link href="/entreprise/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -18,11 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Business_News-fav-icon-150x150.png</url>
+	<title>Entreprise &#8211; Entreprises actualité</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Devenir entrepreneur : mes motivations</title>
-		<link>/entreprise/devenir-entrepreneur-mes-motivations/</link>
-					<comments>/entreprise/devenir-entrepreneur-mes-motivations/#respond</comments>
+		<link>/devenir-entrepreneur-mes-motivations/</link>
+					<comments>/devenir-entrepreneur-mes-motivations/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Jul 2024 06:34:45 +0000</pubDate>
@@ -31,15 +39,15 @@
 
 					<description><![CDATA[Mon parcours entrepreneurial Se lancer dans l&#8217;entrepreneuriat est un projet qui a toujours été en moi. Après plusieurs années en tant que salarié, j&#8217;ai ressenti le besoin de créer quelque chose par moi-même. Les raisons qui m’ont poussé à franchir ce cap sont multiples. Tout d&#8217;abord, j&#8217;ai voulu gagner en indépendance. Avoir la possibilité de [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/devenir-entrepreneur-mes-motivations/feed/</wfw:commentRss>
+					<wfw:commentRss>/devenir-entrepreneur-mes-motivations/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le portage salarial, un atout pour les start-up</title>
-		<link>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/</link>
-					<comments>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/#respond</comments>
+		<link>/le-portage-salarial-un-atout-pour-les-start-up/</link>
+					<comments>/le-portage-salarial-un-atout-pour-les-start-up/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:26:53 +0000</pubDate>
@@ -48,15 +56,15 @@
 
 					<description><![CDATA[Fonctionnement du portage salarial Le portage salarial représente une solution innovante pour les start-up qui cherchent à optimiser leur gestion des ressources humaines tout en minimisant les risques. Ce dispositif permet aux entrepreneurs d’embaucher des experts sans devoir gérer les aspects administratifs et juridiques d’un contrat de travail traditionnel. Le fonctionnement du portage salarial repose [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/feed/</wfw:commentRss>
+					<wfw:commentRss>/le-portage-salarial-un-atout-pour-les-start-up/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Estampeur : l&#8217;art de marquer durablement.</title>
-		<link>/entreprise/estampeur-lart-de-marquer-durablement/</link>
-					<comments>/entreprise/estampeur-lart-de-marquer-durablement/#respond</comments>
+		<link>/estampeur-lart-de-marquer-durablement/</link>
+					<comments>/estampeur-lart-de-marquer-durablement/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:14:52 +0000</pubDate>
@@ -65,7 +73,7 @@
 
 					<description><![CDATA[Techniques d&#8217;estampage L&#8217;estampage est une technique artistique qui consiste à appliquer de l&#8217;encre ou d&#8217;autres matières sur une matrice pour reproduire une image sur une surface. Utilisée depuis l&#8217;Antiquité, c&#8217;est une pratique qui permet de créer des œuvres d&#8217;une grande diversité, de la gravure traditionnelle à la sérigraphie contemporaine. Les principales techniques d&#8217;estampage incluent : [&#8230;]]]></description>
 		
-					<wfw:commentRss>/entreprise/estampeur-lart-de-marquer-durablement/feed/</wfw:commentRss>
+					<wfw:commentRss>/estampeur-lart-de-marquer-durablement/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

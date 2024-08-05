@@ -8,21 +8,46 @@
 	>
 
 <channel>
-	<title>Business &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<title>Business &#8211; Entreprises actualité</title>
 	<atom:link href="/business/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jul 2024 10:13:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Aug 2024 06:34:47 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Business_News-fav-icon-150x150.png</url>
+	<title>Business &#8211; Entreprises actualité</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>Entreprendre malin avec un petit budget</title>
+		<link>/entreprendre-malin-avec-un-petit-budget/</link>
+					<comments>/entreprendre-malin-avec-un-petit-budget/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2024 06:34:47 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">/categorie/entreprendre-malin-avec-un-petit-budget/</guid>
+
+					<description><![CDATA[Définir son projet Définir son projet est la première étape incontournable pour entreprendre de manière efficace avec un petit budget. Identifiez une niche de marché où vous pouvez apporter de la valeur ajoutée. Une analyse de marché approfondie vous permettra de comprendre les besoins de votre cible et les opportunités à exploiter. Rédigez un business [&#8230;]]]></description>
+		
+					<wfw:commentRss>/entreprendre-malin-avec-un-petit-budget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Trouver sa voie professionnelle</title>
-		<link>/business/trouver-sa-voie-professionnelle/</link>
-					<comments>/business/trouver-sa-voie-professionnelle/#respond</comments>
+		<link>/trouver-sa-voie-professionnelle/</link>
+					<comments>/trouver-sa-voie-professionnelle/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:13:08 +0000</pubDate>
@@ -31,15 +56,15 @@
 
 					<description><![CDATA[Orientation scolaire Lorsqu&#8217;il s&#8217;agit de trouver sa voie professionnelle, il est essentiel de bien se préparer dès l&#8217;orientation scolaire. Les choix faits pendant cette période peuvent influencer de manière significative la carrière future. Il est donc crucial de prendre en compte différentes options et de faire des choix éclairés. Pour beaucoup, la première étape consiste [&#8230;]]]></description>
 		
-					<wfw:commentRss>/business/trouver-sa-voie-professionnelle/feed/</wfw:commentRss>
+					<wfw:commentRss>/trouver-sa-voie-professionnelle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Combien gagne un social media manager ?</title>
-		<link>/business/combien-gagne-un-social-media-manager/</link>
-					<comments>/business/combien-gagne-un-social-media-manager/#respond</comments>
+		<link>/combien-gagne-un-social-media-manager/</link>
+					<comments>/combien-gagne-un-social-media-manager/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:12:02 +0000</pubDate>
@@ -48,7 +73,7 @@
 
 					<description><![CDATA[Rôles et responsabilités d&#8217;un social media manager Le social media manager joue un rôle crucial dans la stratégie de communication digitale des entreprises. Sa principale mission est de gérer la présence et l’image de la marque sur les réseaux sociaux, de façon à attirer et fidéliser les clients. Un social media manager orchestrera des campagnes [&#8230;]]]></description>
 		
-					<wfw:commentRss>/business/combien-gagne-un-social-media-manager/feed/</wfw:commentRss>
+					<wfw:commentRss>/combien-gagne-un-social-media-manager/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

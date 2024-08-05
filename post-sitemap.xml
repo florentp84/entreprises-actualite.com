@@ -2,10 +2,20 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-29T06:34:45+00:00</lastmod>
+		<lastmod>2024-08-05T06:34:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/entreprise/devenir-entrepreneur-mes-motivations/</loc>
+		<loc>/entreprendre-malin-avec-un-petit-budget/</loc>
+		<lastmod>2024-08-05T06:34:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/smart-entrepreneurship.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/smart-entrepreneurship-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/devenir-entrepreneur-mes-motivations/</loc>
 		<lastmod>2024-07-29T06:34:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/entrepreneurship-1.jpg</image:loc>
@@ -15,7 +25,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/categorie/les-motivations-de-lentreprenariat/</loc>
+		<loc>/les-motivations-de-lentreprenariat/</loc>
 		<lastmod>2024-07-22T22:00:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/entrepreneurship.jpg</image:loc>
@@ -25,7 +35,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/les-meilleures-ecoles-de-communication-en-france/</loc>
+		<loc>/les-meilleures-ecoles-de-communication-en-france/</loc>
 		<lastmod>2024-07-18T10:33:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/communication-schools.jpg</image:loc>
@@ -35,14 +45,14 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/categorie/decouvrez-le-metier-danthropologue-une-profession-passionnante/</loc>
+		<loc>/decouvrez-le-metier-danthropologue-une-profession-passionnante/</loc>
 		<lastmod>2024-07-18T10:32:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/anthropologist.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/tout-savoir-sur-les-cartes-pcs/</loc>
+		<loc>/tout-savoir-sur-les-cartes-pcs/</loc>
 		<lastmod>2024-07-18T10:28:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/prepaid-cards.png</image:loc>
@@ -52,7 +62,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/lenvoi-postal-une-solution-de-communication-efficace/</loc>
+		<loc>/lenvoi-postal-une-solution-de-communication-efficace/</loc>
 		<lastmod>2024-07-18T10:28:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/postal-mail.png</image:loc>
@@ -62,7 +72,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/entreprise/le-portage-salarial-un-atout-pour-les-start-up/</loc>
+		<loc>/le-portage-salarial-un-atout-pour-les-start-up/</loc>
 		<lastmod>2024-07-18T10:26:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/freelancing.jpg</image:loc>
@@ -72,7 +82,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/actualite/decouvrez-le-salaire-des-verbicrucistes/</loc>
+		<loc>/decouvrez-le-salaire-des-verbicrucistes/</loc>
 		<lastmod>2024-07-18T10:26:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/verbicrucistes-salary.jpg</image:loc>
@@ -82,7 +92,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/le-metier-de-nettoyeur-decran-de-cinema/</loc>
+		<loc>/le-metier-de-nettoyeur-decran-de-cinema/</loc>
 		<lastmod>2024-07-18T10:25:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/screen-cleaner.jpg</image:loc>
@@ -92,7 +102,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/</loc>
+		<loc>/comment-supprimer-un-beneficiaire-a-la-banque-postale/</loc>
 		<lastmod>2024-07-18T10:24:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/supprimer-beneficiaire-banque-postale.jpg</image:loc>
@@ -102,7 +112,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/categorie/le-metier-de-corroyeur-lart-de-transformer-le-cuir/</loc>
+		<loc>/le-metier-de-corroyeur-lart-de-transformer-le-cuir/</loc>
 		<lastmod>2024-07-18T10:24:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/tanner.jpg</image:loc>
@@ -112,7 +122,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/comment-annuler-un-rendez-vous-pole-emploi/</loc>
+		<loc>/comment-annuler-un-rendez-vous-pole-emploi/</loc>
 		<lastmod>2024-07-18T10:18:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/cancel-appointment.jpg</image:loc>
@@ -122,7 +132,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/entreprise/estampeur-lart-de-marquer-durablement/</loc>
+		<loc>/estampeur-lart-de-marquer-durablement/</loc>
 		<lastmod>2024-07-18T10:14:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/printing.jpg</image:loc>
@@ -132,18 +142,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/choisir-un-metier-conseils-et-demarches/</loc>
+		<loc>/choisir-un-metier-conseils-et-demarches/</loc>
 		<lastmod>2024-07-18T10:13:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/career-advice.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/business/trouver-sa-voie-professionnelle/</loc>
+		<loc>/trouver-sa-voie-professionnelle/</loc>
 		<lastmod>2024-07-18T10:13:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/business/combien-gagne-un-social-media-manager/</loc>
+		<loc>/combien-gagne-un-social-media-manager/</loc>
 		<lastmod>2024-07-18T10:12:02+00:00</lastmod>
 	</url>
 </urlset>

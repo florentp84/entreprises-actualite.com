@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Services &#8211; WordPress OCOPO™ &#8211; 1.5</title>
+	<title>Services &#8211; Entreprises actualité</title>
 	<atom:link href="/services/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -18,11 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-Business_News-fav-icon-150x150.png</url>
+	<title>Services &#8211; Entreprises actualité</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Les meilleures écoles de communication en France</title>
-		<link>/services/les-meilleures-ecoles-de-communication-en-france/</link>
-					<comments>/services/les-meilleures-ecoles-de-communication-en-france/#respond</comments>
+		<link>/les-meilleures-ecoles-de-communication-en-france/</link>
+					<comments>/les-meilleures-ecoles-de-communication-en-france/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:33:29 +0000</pubDate>
@@ -31,15 +39,15 @@
 
 					<description><![CDATA[Classement des écoles de communication Le choix d&#8217;une école de communication est crucial pour ceux qui souhaitent se spécialiser dans ce domaine. La France dispose de plusieurs établissements réputés qui offrent des formations de qualité, variées et adaptées aux besoins du marché. Celsa (Paris-Sorbonne) est souvent considérée comme l&#8217;une des meilleures écoles de communication en [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/les-meilleures-ecoles-de-communication-en-france/feed/</wfw:commentRss>
+					<wfw:commentRss>/les-meilleures-ecoles-de-communication-en-france/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tout savoir sur les cartes PCS</title>
-		<link>/services/tout-savoir-sur-les-cartes-pcs/</link>
-					<comments>/services/tout-savoir-sur-les-cartes-pcs/#respond</comments>
+		<link>/tout-savoir-sur-les-cartes-pcs/</link>
+					<comments>/tout-savoir-sur-les-cartes-pcs/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:28:55 +0000</pubDate>
@@ -48,15 +56,15 @@
 
 					<description><![CDATA[Fonctionnement des cartes PCS Les cartes PCS, ou cartes prépayées, sont des outils pratiques pour gérer et effectuer des paiements sans avoir besoin d&#8217;un compte bancaire traditionnel. Elles sont largement utilisées pour leur flexibilité et leur simplicité, permettant à leurs utilisateurs de mieux contrôler leurs dépenses. Le fonctionnement des cartes PCS est assez simple. Pour [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/tout-savoir-sur-les-cartes-pcs/feed/</wfw:commentRss>
+					<wfw:commentRss>/tout-savoir-sur-les-cartes-pcs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>L&#8217;envoi postal : une solution de communication efficace</title>
-		<link>/services/lenvoi-postal-une-solution-de-communication-efficace/</link>
-					<comments>/services/lenvoi-postal-une-solution-de-communication-efficace/#respond</comments>
+		<link>/lenvoi-postal-une-solution-de-communication-efficace/</link>
+					<comments>/lenvoi-postal-une-solution-de-communication-efficace/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:28:06 +0000</pubDate>
@@ -65,15 +73,15 @@
 
 					<description><![CDATA[Tarifs d&#8217;envoi postal Les tarifs d&#8217;envoi postal sont un facteur clé à considérer lors de l&#8217;utilisation de ce mode de communication. Il est essentiel de bien comprendre les différentes options tarifaires disponibles pour optimiser vos coûts. Les principaux tarifs incluent : En choisissant le tarif adapté à vos besoins, vous pouvez maîtriser votre budget tout [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/lenvoi-postal-une-solution-de-communication-efficace/feed/</wfw:commentRss>
+					<wfw:commentRss>/lenvoi-postal-une-solution-de-communication-efficace/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le métier de nettoyeur d&#8217;écran de cinéma</title>
-		<link>/services/le-metier-de-nettoyeur-decran-de-cinema/</link>
-					<comments>/services/le-metier-de-nettoyeur-decran-de-cinema/#respond</comments>
+		<link>/le-metier-de-nettoyeur-decran-de-cinema/</link>
+					<comments>/le-metier-de-nettoyeur-decran-de-cinema/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:25:43 +0000</pubDate>
@@ -82,15 +90,15 @@
 
 					<description><![CDATA[Formation pour devenir nettoyeur d&#8217;écran de cinéma Le nettoyeur d&#8217;écran de cinéma joue un rôle crucial pour garantir une expérience cinématographique optimale. En assurant la propreté des écrans, il permet aux spectateurs de profiter d&#8217;une image nette et sans distractions. Ce métier requiert un sens du détail aiguisé et une méthode rigoureuse. Les formations pour [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/le-metier-de-nettoyeur-decran-de-cinema/feed/</wfw:commentRss>
+					<wfw:commentRss>/le-metier-de-nettoyeur-decran-de-cinema/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comment supprimer un bénéficiaire à La Banque Postale</title>
-		<link>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/</link>
-					<comments>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/#respond</comments>
+		<link>/comment-supprimer-un-beneficiaire-a-la-banque-postale/</link>
+					<comments>/comment-supprimer-un-beneficiaire-a-la-banque-postale/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:24:38 +0000</pubDate>
@@ -99,15 +107,15 @@
 
 					<description><![CDATA[Procédure pour supprimer un bénéficiaire à La Banque Postale Pour supprimer un bénéficiaire à La Banque Postale, il est nécessaire de suivre une procédure bien déterminée. Voici les étapes à suivre pour mener à bien cette opération. Connectez-vous à votre espace personnel sur le site de La Banque Postale. Utilisez votre identifiant et votre mot [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/comment-supprimer-un-beneficiaire-a-la-banque-postale/feed/</wfw:commentRss>
+					<wfw:commentRss>/comment-supprimer-un-beneficiaire-a-la-banque-postale/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comment annuler un rendez-vous Pôle Emploi</title>
-		<link>/services/comment-annuler-un-rendez-vous-pole-emploi/</link>
-					<comments>/services/comment-annuler-un-rendez-vous-pole-emploi/#respond</comments>
+		<link>/comment-annuler-un-rendez-vous-pole-emploi/</link>
+					<comments>/comment-annuler-un-rendez-vous-pole-emploi/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:18:57 +0000</pubDate>
@@ -116,15 +124,15 @@
 
 					<description><![CDATA[Préparation de l&#8217;annulation Si vous devez annuler un rendez-vous Pôle Emploi, il est essentiel de suivre certaines étapes pour éviter des complications. Voici les instructions à respecter : 1. Accédez à votre espace personnel : Connectez-vous à votre espace personnel Pôle Emploi. Vous aurez besoin de votre identifiant et de votre mot de passe. 2. [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/comment-annuler-un-rendez-vous-pole-emploi/feed/</wfw:commentRss>
+					<wfw:commentRss>/comment-annuler-un-rendez-vous-pole-emploi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Choisir un métier : conseils et démarches</title>
-		<link>/services/choisir-un-metier-conseils-et-demarches/</link>
-					<comments>/services/choisir-un-metier-conseils-et-demarches/#respond</comments>
+		<link>/choisir-un-metier-conseils-et-demarches/</link>
+					<comments>/choisir-un-metier-conseils-et-demarches/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 10:13:51 +0000</pubDate>
@@ -133,7 +141,7 @@
 
 					<description><![CDATA[Conseils pour choisir un métier Il est important de se connaître avant de choisir un métier. Identifiez vos compétences, vos intérêts et vos valeurs. Faites une liste de ce que vous aimez faire et de ce que vous faites bien. Cela vous aidera à déterminer les domaines professionnels où vous pourriez être à l&#8217;aise. Renseignez-vous [&#8230;]]]></description>
 		
-					<wfw:commentRss>/services/choisir-un-metier-conseils-et-demarches/feed/</wfw:commentRss>
+					<wfw:commentRss>/choisir-un-metier-conseils-et-demarches/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
